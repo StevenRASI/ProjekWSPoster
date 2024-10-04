@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programmer</title>
+    <link rel="shortcut icon" href="pngwing.com.png">
+    <link rel="stylesheet" href="color.css">
+    <style>
+        body {
+          font-family: Copperplate, Papyrus, fantasy;
+        }
+        </style>
+        <style>
+          body {
+            cursor:url("cursor.cur"), auto;
+          }
+        </style>
+</head>
+<body>
+    <h1>Programmer</h1>
+    <hr>
+    <h2>Halo, jika kamu disini maka kamu telah me-scan QR-Code atau memasukan alamat website yang ada di poster ku.</h2>
+    <h3>Dan disini saya akan membahas tentang programmer, tau gak sih? Jenis jenis programmer sudah ada lebih dari 10 loh, lebih tepatnya ada 18 dan mereka semua bekerja untuk mengembangkan teknologi agar lebih canggih setiap masa, termasuk untuk melindungi data data yang disimpan di perangkat digital.</h3>
+    <hr>
+    <h3>Untuk apa aku belajar programming?</h3>
+    <h4>jika dilihat dari skala besar, peradaban sudah mulai beralih kejaman teknologi, pekerjaan bisa dilakukan oleh mesin yang dikontol jarak jauh, ai service sudah ada di beberapa restoran, dan lain lain</h4>
+    <h4>Dan juga, dengan menguasai programming, kalian bisa membuat website yang seperti kalian lihat sekarang, atau bahkan aplikasi.</h4>
+    <h4>Fakta menarik: ternyata, aplikasi-aplikasi seperti tiktok,instagram,bahkan mobile legends dibuat dengan programming loh.</h4>
+    <hr>
+    <h3>Apa saja jenis-jenis programmer?</h3>
+    <p><strong>Ada lumayan banyak jenis programmer, diantaranya adalah:</strong></p>
+    <br>1.Programmer aplikasi
+    <br>2.Programmer web
+    <br>3.Programmer front-end
+    <br>4.Programmer back-end
+    <br>5.Programmer full-stack
+    <br>6.Programmer mobile
+    <br>7.Programmer game
+    <br>9.Programmer jaringan
+    <br>10.Programmer kemanan
+    <br>Dll.
+    <p>Sumber:(<a href="https://bpmpp.uma.ac.id/2024/01/22/mengenal-berbagai-jenis-programmer/">bpmpp.uma.ac.id</a>)</p>
+    <hr>
+    <h3>Bagaimana saya memulai belajar programming?</h3>
+    <h4>Pertama-tama, tentukan bidang programming mana yang kamu inginkan</h4>
+    <h4>Untuk lebih maksimal, anda sebaiknya menggunakan laptop lalu set up vscode.</h4>
+    <h4>Jika anda tidak memiliki laptop tidak masalah, anda bisa menggunakan aplikasi Acode atau aplikasi lainya di hp.</h4>
+    <h4>jika sudah, pergi ke roadmap.sh lalu cari roadmap programming di bidang yang kamu pilih, ikuti sesuai yang ada di websitenya ya</h4>
+    <hr>
+    <h3>Tips-tips untuk belajar programming.</h3>
+    <br>1.Menggunakan roadmap
+    <br>2.Perbanyak searching
+    <br>3.Jangan hafalkan syntax/command, pahami
+    <br>4.Latih problem solving dengan bermain game puzzle/teka teki seperti sudoku, tic-tac-toe,dll (Pahami juga pattern nya, bukan dihafal yaa ingat)
+    <br>5.Jangan terlalu keras belajar, belajarlah dengan pelan dan santai, saya rekomendasi memakai teknik Pomodoro.
+    <hr>
+    <h2>Nahh, sekarang sudah paham kan?</h2>
+    <h3>Sekarang saya akan memberi kata-kata motivasi nihh, tapi bukan tentang programming doang yaa:</h3>
+    <h4>Kita disini membawa dua harapan, harapan orang tua dan harapan kita, tetapi mengapa kau ingin berhenti karna berfikir ini tidak ada gunanya untuk DIRIMU?</h4>
+    <h3>Lalu.</h3>
+    <h4>Untuk apa kau memulai jika kau berpikir untuk menyerah?</h4>
+    <hr>
+    <h1>Terima kasih:]</h1>
+</body>
+</html>
